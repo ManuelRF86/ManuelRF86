@@ -71,6 +71,4 @@ Podrás obtener más información sobre mí en:
     </td>
   </tr>
 </table>
-=======
 
->>>>>>> 35f0d12b015f7a336d663912794b6831b4830ed5
