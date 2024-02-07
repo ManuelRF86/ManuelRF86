@@ -11,8 +11,9 @@
 ## :red_circle: About me
 
 <p> 
-  ¡Hola! Mi nombre es Javier y soy Data Scientist. Soy de España y actualmente resido en Madrid. Me podeis encontrar en  
-  <a href="https://www.linkedin.com/in/javierdealcazar/" target="_blank">
+  ¡Hola! Mi nombre es Manuel.
+  Soy Data Scientist. Me podeis encontrar en  
+  <a href="https://www.linkedin.com/in/manuel-reina-fernandez/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" alt="LinkedIn">
   </a>
 </p>
