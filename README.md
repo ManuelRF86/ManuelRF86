@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ![Texto alternativo](src/img/banner.png)
 
 <p align="center">
