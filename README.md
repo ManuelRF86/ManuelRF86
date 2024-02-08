@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&color=999999&center=true&vCenter=true&width=800&lines=Hello+World%21%21;Welcome+to+my+GitHub+repository" alt="Hello World!! Welcome to my GitHub repository" style="color: #999999">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&color=999999&center=true&vCenter=true&width=800&lines=Hello+World%21%21;Welcome+to+my+projects" alt="Hello World!! Welcome to my projects" style="color: #999999">
   </a>
 </p>
 
