@@ -8,7 +8,7 @@
 </p>
 
 
-## About me
+# ![alt text](src/img/image-2.png) About me
 
 <p> 
 Mi curiosidad por el mundo de los datos y las estadísticas, me llevaron
